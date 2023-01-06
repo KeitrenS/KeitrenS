@@ -7,8 +7,12 @@
   - [osTicket: Post-Installation Configuration](https://github.com/KeitrenS/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/KeitrenS/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KeitrenS/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KeitrenS/azure-network-protocols)
+ 
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KeitrenS/azure-network-protocols)  
+- <b>Proton Virtual Private Network</b>
+  - [Configuring Proton VPN within Azure VM](https://github.com/KeitrenS/configure-vpn)
+- <b>Linux Command Analyzation using Virtual Private Network</b>
+  - [Analyzing Linux Command Protocols within Virtual Private Network](https://github.com/KeitrenS/linux-commands)
 
 <h2>🤳Connect with me:</h2>
 
